@@ -1,8 +1,8 @@
 # example netlify.toml
 [build]
-  command = "npm run docs:build"
+  command = "npm run build"
   functions = "netlify/functions"
-  publish = "docs/.vuepress/dist"
+  publish = "src/.vuepress/dist"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
