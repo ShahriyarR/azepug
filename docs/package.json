@@ -1,0 +1,19 @@
+{
+  "name": "azepug",
+  "version": "0.0.1",
+  "description": "AzePUG Blog Site",
+  "main": "index.js",
+  "authors": {
+    "name": "Shahriyar Rzayev",
+    "email": "rzayev.sehriyar@gmail.com"
+  },
+  "repository": "https://github.com/ShahriyarR/azepug/azepug",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
