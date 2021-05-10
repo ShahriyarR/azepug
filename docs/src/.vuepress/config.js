@@ -58,7 +58,12 @@ module.exports = {
           collapsable: true,
           children: [
             '',
-            ['cpython-internals/', 'CPython Internals']
+            ['cpython-internals/', 'CPython Internals'],
+            ['python-tricks/', 'Python Tricks'],
+            ['django/', 'Django/DRF'],
+            ['fastapi/', 'FastAPI'],
+            ['vuejs-nuxtjs/', 'VueJS/NuxtJS'],
+            ['open-source-info/', 'Our Contributions to Open Source']
           ],
         },
       ],
