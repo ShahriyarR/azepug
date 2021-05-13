@@ -191,7 +191,9 @@ INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 ```
 
-Now we are done with basic setup. 
+Now we are done with basic setup.
+
+The code changes for this episode -> [episode-1](https://github.com/ShahriyarR/ecommerce-nuxtjs-fastapi-backend/tree/episode_1)
 
 Next is configuring our Database to be used by Gino.
 Thanks

@@ -6,3 +6,7 @@
 ### Please find below the list of sequential tutorials related to this project
 
 1. [Setting Up FastAPI project](./ecommerce-setup-fastapi)
+
+2. [Configure Gino ORM](./ecommerce-configure-db)
+
+3. [Configure Alembic migrations and User model](./ecommerce-configure-alembic)
