@@ -10,3 +10,5 @@
 2. [Configure Gino ORM](./ecommerce-configure-db)
 
 3. [Configure Alembic migrations and User model](./ecommerce-configure-alembic)
+
+4. [Configure Pydantic schemas and User model](./ecommerce-create-pydantic-schemas)
