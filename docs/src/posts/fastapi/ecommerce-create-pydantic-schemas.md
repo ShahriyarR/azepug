@@ -256,4 +256,4 @@ Great the next thing is to improve our User registration and to add password sal
 The code changes for this episode -> [episode-4](https://github.com/ShahriyarR/ecommerce-nuxtjs-fastapi-backend/tree/episode-4)
 
 
-### NEXT -> [Configure password encryption and user registration](./ecommerce-configure-password-encryption)
+### NEXT -> [Configure User registration - password hashing](./ecommerce-configure-user-registration)
