@@ -14,3 +14,5 @@
 4. [Configure Pydantic schemas and User model](./ecommerce-create-pydantic-schemas)
 
 5. [Configure User registration - password hashing](./ecommerce-configure-user-registration)
+
+6. [Configure login functionality with JWT](./ecommerce-configure-login-jwt)

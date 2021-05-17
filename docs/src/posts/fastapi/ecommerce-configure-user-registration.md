@@ -311,4 +311,8 @@ INFO:     127.0.0.1:45054 - "POST /users/create HTTP/1.1" 200 OK
 
 So basically we have registered the user with hashed and salted password properly.
 
+The code changes for this episode -> [episode-5](https://github.com/ShahriyarR/ecommerce-nuxtjs-fastapi-backend/tree/episode-5)
+
 The next thing is to have login functionality with JWT, so we are going to extend our Authentication system.
+
+### NEXT -> [Configure login functionality with JWT](./ecommerce-configure-login-jwt)
