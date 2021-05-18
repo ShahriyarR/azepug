@@ -1,4 +1,4 @@
-# Our Open Source activities
+# Open Source activities - mainly by group leader :)
 
 ## Recent contributions to the projects
 
@@ -31,3 +31,11 @@
 ## Youtube Channel
 
 * [Dev Internals](https://www.youtube.com/c/ShahriyarRzayev/playlists)
+
+## What we love
+
+* Python, Django, FastAPI, asyncio
+
+* VueJS / NuxtJS
+
+* Docker, Gitlab CI/CD, Digitalocean ,etc.
