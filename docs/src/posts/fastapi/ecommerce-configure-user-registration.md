@@ -1,6 +1,6 @@
 # Configure User registration - password hashing
 
-> NOTE: From now, I have shifted from Python 3.9 to 3.8 the detailed explanation will be blogged as well.
+> NOTE: From now, I have shifted from Python 3.9 to 3.8 due to this bug [Segmentation Fault in record_repr at asyncpg/protocol/record/recordobj.c:462](https://github.com/MagicStack/asyncpg/issues/757)
 
 
 Okay, now it is time to restructure our project a bit and apply changes to store our User's data securely.

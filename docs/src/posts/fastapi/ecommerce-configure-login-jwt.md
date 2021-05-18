@@ -229,3 +229,6 @@ gino.exceptions.UninitializedError: Gino engine is not initialized.
 In the next chapters we will try to fix this issue as well. Also we need to add some extra functionality for our token management.
 
 The code changes for this episode -> [episode-6](https://github.com/ShahriyarR/ecommerce-nuxtjs-fastapi-backend/tree/episode-6)
+
+
+### NEXT -> [Fixing Gino engine is not initialized issue](./ecommerce-fixing-gino-error)

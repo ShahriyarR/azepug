@@ -38,4 +38,6 @@
 
 * VueJS / NuxtJS
 
+* MySQL, Postgres, Redis
+
 * Docker, Gitlab CI/CD, Digitalocean ,etc.
