@@ -18,6 +18,8 @@
 
 ## Recent bug reports(crashes)
 
+* [All MySQL bug reports](https://bugs.mysql.com/search.php?cmd=display&status=All&severity=all&order_by=date&direction=ASC&mine=0&reporter=6786791&reorder_by=date)
+
 * [Segmentation Fault in record_repr at asyncpg/protocol/record/recordobj.c:462](https://github.com/MagicStack/asyncpg/issues/757)
 
 ## Blog posts
@@ -28,4 +30,4 @@
 
 ## Youtube Channel
 
-* [Dev Internals](https://www.youtube.com/c/ShahriyarRzayev)
+* [Dev Internals](https://www.youtube.com/c/ShahriyarRzayev/playlists)
