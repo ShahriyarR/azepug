@@ -19,3 +19,5 @@ But we are using NuxtJS instead of VueJS and FastAPI instead off Django/DRF.
 6. [Configure login functionality with JWT](./ecommerce-configure-login-jwt)
 
 7. [Fixing Gino engine is not initialized issue](./ecommerce-fixing-gino-error)
+
+8. [Adding Pytest tests (part 1)](./ecommerce-pytest-user-auth-part1)

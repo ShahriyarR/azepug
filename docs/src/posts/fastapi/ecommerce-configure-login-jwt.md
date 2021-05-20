@@ -72,8 +72,8 @@ Then we need to define Pydantic schemas for our token management in `users/schem
 class JWTMeta(CoreModel):
     iss: str = "azepug.az"
     aud: str = settings.JWT_AUDIENCE
-    iat: float = datetime.timestamp(datetime.utcnow())
-    exp: float = datetime.timestamp(datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES))
+    iat: float = datetime.timestamp(datetime.now())
+    exp: float = datetime.timestamp(datetime.now() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES))
 
 
 class JWTCreds(CoreModel):
@@ -109,8 +109,8 @@ def create_access_token_for_user(
         return None
     jwt_meta = JWTMeta(
         aud=audience,
-        iat=datetime.timestamp(datetime.utcnow()),
-        exp=datetime.timestamp(datetime.utcnow() + timedelta(minutes=expires_in)),
+        iat=datetime.timestamp(datetime.now()),
+        exp=datetime.timestamp(datetime.now() + timedelta(minutes=expires_in)),
     )
     jwt_creds = JWTCreds(sub=user.email, username=user.username)
     token_payload = JWTPayload(
