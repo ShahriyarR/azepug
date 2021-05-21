@@ -1,4 +1,4 @@
-# Adding Pytest tests (part 1)
+# Adding Pytest tests to User auth (part 1)
 
 Good citizens have the willingness to write tests. It should be started as soon as possible or immediately, now.
 

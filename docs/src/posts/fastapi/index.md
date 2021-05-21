@@ -20,4 +20,6 @@ But we are using NuxtJS instead of VueJS and FastAPI instead off Django/DRF.
 
 7. [Fixing Gino engine is not initialized issue](./ecommerce-fixing-gino-error)
 
-8. [Adding Pytest tests (part 1)](./ecommerce-pytest-user-auth-part1)
+8. [Adding Pytest tests to User auth (part 1)](./ecommerce-pytest-user-auth-part1)
+
+9. [Adding Pytest tests to User auth (part 2)](./ecommerce-pytest-user-auth-part2)
