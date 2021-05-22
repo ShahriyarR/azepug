@@ -366,4 +366,8 @@ Crazy :D
 
 The code changes for this episode -> [episode-9](https://github.com/ShahriyarR/ecommerce-nuxtjs-fastapi-backend/tree/episode-9)
 
-The next thing I would like to add other parts of our ecommerce app orders and of course products.
+Please keep in mind that we need to work on our auth flow further.
+
+But before that, I would like to add other parts of our ecommerce app - the orders and of course the products and maybe try to activate admin panel.
+
+### NEXT -> [Start Product app, create database models and activate admin panel](./ecommerce-configure-product-models)
