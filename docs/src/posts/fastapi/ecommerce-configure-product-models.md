@@ -183,3 +183,8 @@ You will see our models inside the admin panel:
 Also I have spotted issue with gino-admin and reported as [issue40](https://github.com/xnuinside/gino-admin/issues/40)
 
 The code changes for this episode -> [episode-10](https://github.com/ShahriyarR/ecommerce-nuxtjs-fastapi-backend/tree/episode-10)
+
+I guess the next is to add functionality to check if the user is superuser or not and then try to create categories and products.
+
+
+### NEXT -> [Enable admin user and create categories](./ecommerce-admin-user-create-category-products)

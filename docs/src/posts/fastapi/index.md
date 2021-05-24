@@ -25,3 +25,5 @@ But we are using NuxtJS instead of VueJS and FastAPI instead off Django/DRF.
 9. [Adding Pytest tests to User auth (part 2)](./ecommerce-pytest-user-auth-part2)
 
 10. [Start Product app, create database models and activate admin panel](./ecommerce-configure-product-models)
+
+11. [Enable admin user and create categories](./ecommerce-admin-user-create-category-products)
