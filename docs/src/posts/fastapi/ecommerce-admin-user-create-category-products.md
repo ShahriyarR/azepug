@@ -198,3 +198,6 @@ The code changes for this episode -> [episode-11](https://github.com/ShahriyarR/
 
 
 We have a new bug report for gino-admin as well [TypeError: 'tuple' object is not callable](https://github.com/xnuinside/gino-admin/issues/41)
+
+
+### NEXT -> [Create products and explore File upload handling](./ecommerce-create-products-file-upload)

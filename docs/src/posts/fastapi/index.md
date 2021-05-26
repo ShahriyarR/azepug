@@ -27,3 +27,5 @@ But we are using NuxtJS instead of VueJS and FastAPI instead off Django/DRF.
 10. [Start Product app, create database models and activate admin panel](./ecommerce-configure-product-models)
 
 11. [Enable admin user and create categories](./ecommerce-admin-user-create-category-products)
+
+12. [Create products and explore File upload handling](./ecommerce-create-products-file-upload)

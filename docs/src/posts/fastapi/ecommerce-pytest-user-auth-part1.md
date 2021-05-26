@@ -216,4 +216,4 @@ I guess the next is to cover all other operations as well.
 
 The code changes for this episode -> [episode-8](https://github.com/ShahriyarR/ecommerce-nuxtjs-fastapi-backend/tree/episode-8)
 
-### NEXT -> [Adding Pytest tests (part 2)](./ecommerce-pytest-users-part2)
+### NEXT -> [Adding Pytest tests (part 2)](./ecommerce-pytest-user-auth-part2)

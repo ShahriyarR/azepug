@@ -93,3 +93,5 @@ Now if we try to login several times it will work without Gino error.
 The code changes for this episode -> [episode-7](https://github.com/ShahriyarR/ecommerce-nuxtjs-fastapi-backend/tree/episode-7)
 
 Next thing is to write tests to our project.
+
+### NEXT -> [Adding Pytest tests to User auth (part 1)](./ecommerce-pytest-user-auth-part1)
