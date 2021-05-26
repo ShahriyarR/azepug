@@ -243,3 +243,5 @@ Now restart the app and go to he link for your uploaded photo:
 I think we are done with this episode. The next is to create thumbnails from uploaded files and serve them as well for our frontend.
 
 The code changes for this episode -> [episode-12](https://github.com/ShahriyarR/ecommerce-nuxtjs-fastapi-backend/tree/episode-12)
+
+### NEXT -> [Create thumbnails from images and add products](./ecommerce-create-thumbnails-and-add-products)
