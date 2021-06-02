@@ -6,28 +6,30 @@ Our project will be based on this wonderful [Youtube Tutorial](https://www.youtu
 
 But we are using NuxtJS instead of VueJS and FastAPI instead off Django/DRF.
 
-1. [Setting Up FastAPI project](./ecommerce-setup-fastapi)
+1. [Setting Up FastAPI project](./ecommerce-fastapi-nuxtjs/ecommerce-setup-fastapi)
 
-2. [Configure Gino ORM](./ecommerce-configure-db)
+2. [Configure Gino ORM](./ecommerce-fastapi-nuxtjs/ecommerce-configure-db)
 
-3. [Configure Alembic migrations and User model](./ecommerce-configure-alembic)
+3. [Configure Alembic migrations and User model](./ecommerce-fastapi-nuxtjs/ecommerce-configure-alembic)
 
-4. [Configure Pydantic schemas and User model](./ecommerce-create-pydantic-schemas)
+4. [Configure Pydantic schemas and User model](./ecommerce-fastapi-nuxtjs/ecommerce-create-pydantic-schemas)
 
-5. [Configure User registration - password hashing](./ecommerce-configure-user-registration)
+5. [Configure User registration - password hashing](./ecommerce-fastapi-nuxtjs/ecommerce-configure-user-registration)
 
-6. [Configure login functionality with JWT](./ecommerce-configure-login-jwt)
+6. [Configure login functionality with JWT](./ecommerce-fastapi-nuxtjs/ecommerce-configure-login-jwt)
 
-7. [Fixing Gino engine is not initialized issue](./ecommerce-fixing-gino-error)
+7. [Fixing Gino engine is not initialized issue](./ecommerce-fastapi-nuxtjs/ecommerce-fixing-gino-error)
 
-8. [Adding Pytest tests to User auth (part 1)](./ecommerce-pytest-user-auth-part1)
+8. [Adding Pytest tests to User auth (part 1)](./ecommerce-fastapi-nuxtjs/ecommerce-pytest-user-auth-part1)
 
-9. [Adding Pytest tests to User auth (part 2)](./ecommerce-pytest-user-auth-part2)
+9. [Adding Pytest tests to User auth (part 2)](./ecommerce-fastapi-nuxtjs/ecommerce-pytest-user-auth-part2)
 
-10. [Start Product app, create database models and activate admin panel](./ecommerce-configure-product-models)
+10. [Start Product app, create database models and activate admin panel](./ecommerce-fastapi-nuxtjs/ecommerce-configure-product-models)
 
-11. [Enable admin user and create categories](./ecommerce-admin-user-create-category-products)
+11. [Enable admin user and create categories](./ecommerce-fastapi-nuxtjs/ecommerce-admin-user-create-category-products)
 
-12. [Create products and explore File upload handling](./ecommerce-create-products-file-upload)
+12. [Create products and explore File upload handling](./ecommerce-fastapi-nuxtjs/ecommerce-create-products-file-upload)
 
-13. [Create thumbnails from images and add products](./ecommerce-create-thumbnails-and-add-products)
+13. [Create thumbnails from images and add products](./ecommerce-fastapi-nuxtjs/ecommerce-create-thumbnails-and-add-products)
+
+14. [Create Order app, models and schemas](./ecommerce-fastapi-nuxtjs/ecommerce-create-order-app-and-models)

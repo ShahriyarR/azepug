@@ -150,3 +150,5 @@ So we have successfully saved our product's image and thumbnail file names and i
 I think from now, we are pretty done with backend product app and the next is to create the orders app or to add the tests to our product app.
 
 The code changes for this episode -> [episode-13](https://github.com/ShahriyarR/ecommerce-nuxtjs-fastapi-backend/tree/episode-13)
+
+### NEXT -> [](./ecommerce-create-order-app-and-models)
