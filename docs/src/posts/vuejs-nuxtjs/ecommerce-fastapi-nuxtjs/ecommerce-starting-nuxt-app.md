@@ -173,3 +173,5 @@ We are done with initial setup.
 The code changes for this episode -> [episode-15](https://github.com/ShahriyarR/ecommerce-nuxtjs-frontend/tree/episode-15)
 
 The next is to start building our UI and create base template.
+
+### NEXT -> [Setting up base template](./ecommerce-setup-base-template)

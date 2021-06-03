@@ -35,3 +35,5 @@ But we are using NuxtJS instead of VueJS and FastAPI instead off Django/DRF.
 14. [Create Order app, models and schemas](./ecommerce-fastapi-nuxtjs/ecommerce-create-order-app-and-models)
 
 15. [Setting up Nuxt app and activating Bulma CSS](../vuejs-nuxtjs/ecommerce-fastapi-nuxtjs/ecommerce-starting-nuxt-app)
+
+16. [Setting up base template](../vuejs-nuxtjs/ecommerce-fastapi-nuxtjs/ecommerce-setup-base-template)
